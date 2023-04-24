@@ -1,0 +1,13 @@
+import org.gradle.api.initialization.resolve.RepositoriesMode
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        maven {url 'https://developer.huawei.com/repo/'}
+
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "HMS SMS demo"
+include ':app'
