@@ -5,8 +5,10 @@ Simple demo that automatically fills in an OTP code from SMS message, based on H
 The SMS is sent directly from the device using your sim card for demonstration purposes, in production environment the SMS should be sent from server side
 
 ## demo
-
-video: [https://github.com/megaacheyounes/hms-sms-demo/blob/master/screenshot/demo.mp4](https://github.com/megaacheyounes/hms-sms-demo/blob/master/screenshot/demo.mp4)
+ 
+https://user-images.githubusercontent.com/36759976/233957239-6eb918ac-d60b-4fd3-8aec-3736549bacc3.mp4
+ 
+if above demo link is broken, download from here: [https://github.com/megaacheyounes/hms-sms-demo/blob/master/screenshot/demo.mp4](https://github.com/megaacheyounes/hms-sms-demo/blob/master/screenshot/demo.mp4)
 
 
 ## run
